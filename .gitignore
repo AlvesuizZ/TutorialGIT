@@ -1,0 +1,6 @@
+# .gitignore
+dir1/ # ignora todo lo que contenga el directorio dir1
+!dir1/info.txt # El operador ! excluye del ignore a dir1/info.txt (sí se guardaría)
+dir2/*.txt # ignora todos los archivos txt que hay en el directorio dir2
+dir3/**/*.txt # ignora todos los archivos txt que hay en el dir3 y sus subdirectorios
+*.o # ignora todos los archivos con extensión .o en todos los directorios
