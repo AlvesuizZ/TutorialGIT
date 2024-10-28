@@ -1,4 +1,4 @@
-# Curso de GIT
+# Curso de GIT de octubre
 
 Este proyecto contiene el curso de introducción a GIT
 
